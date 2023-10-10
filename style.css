@@ -1,9 +1,33 @@
+h1 {
+    text-align: center;
+}
+
 body {
-    width: 40px;
     background-color: blanchedalmond;
 }
 
-p {
-    color: aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.zoro {
+    position: absolute;
+    bottom: 0;
+    right: 1px;
+    font-size: 18px;
+}
+
+
+.onepiece {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    word-spacing: 20px;
+}
+
+.onepiece ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+.onepiece ul li a {
+    text-decoration: ;
+    color: black;
 }
