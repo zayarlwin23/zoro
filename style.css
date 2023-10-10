@@ -2,3 +2,8 @@ body {
     width: 40px;
     background-color: blanchedalmond;
 }
+
+p {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
